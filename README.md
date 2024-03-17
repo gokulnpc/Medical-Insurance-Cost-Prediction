@@ -6,4 +6,4 @@ This web app is created to predict the medical insurance cost based on the user 
 
 <img width="960" alt="image" src="https://github.com/gokulnpc/Fake-News-Prediction/assets/105941681/51c7644c-e3e8-46ee-b425-cdcfa6a02030">
 
-<img width="960" alt="image" src="https://github.com/gokulnpc/Fake-News-Prediction/assets/105941681/b883e93d-5dfe-45d1-912b-8b34374a3a90">
+<img width="960" alt="image" src="https://github.com/gokulnpc/Medical-Insurance-Cost-Prediction/assets/105941681/89bda3a9-ec49-45ce-9a7a-1f559d47678e">
